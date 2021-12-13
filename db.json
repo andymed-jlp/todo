@@ -1,0 +1,9 @@
+{
+  "todo": [
+    { "id": 1, "text": "This is a sampe todo", "isDone": false },
+    { "id": 2, "text": "This is 2nd todo item ", "isDone": false }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
